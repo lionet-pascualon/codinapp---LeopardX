@@ -1,11 +1,10 @@
 # CodinApp - Proyecto Final Django 🚀
 
-**Estudiante:** Milton (UTN)  
-**Comisión:** 8 
-**Temática:** Blog de tecnología, desarrollo web y electrónica (LeoparX).
+**Estudiante:** Milton Lionel Benjamin 
+**Temática:** Blog de tecnología, desarrollo web y electrónica (LeoparX y CodinApp).
 
 ## 📌 Descripción
-CodinApp es una plataforma interactiva diseñada para la comunidad de desarrolladores y entusiastas de la tecnología. Permite a los usuarios registrarse, publicar artículos (blogs), comentar publicaciones de otros y gestionar su perfil personal.
+CodinApp es una plataforma interactiva diseñada para la comunidad de desarrolladores y entusiastas de la tecnología. Permite a los usuarios registrarse, publicar artículos (blogs), comentar publicaciones de otros y gestionar su perfil personal ademas de charlar con otros usuarios de una forma simple y se restringe el uso si no estas registrado.
 
 ## 🛠️ Tecnologías utilizadas
 * **Lenguaje:** Python 3.8
@@ -14,9 +13,8 @@ CodinApp es una plataforma interactiva diseñada para la comunidad de desarrolla
 * **Estilo:** Bootstrap 5 con personalización "Dark Mode" (LeoparX Theme).
 * **Librerías extra:** Django Humanize (para tiempos relativos) y CKEditor (para texto enriquecido).
 
-## 🎥 Video de Demostración
-[Link a tu video de Drive aca]
-*(Recordar que es obligatorio y debe durar máximo 10 min)*
+## 🎥 Video de Demostración - Drive
+https://drive.google.com/drive/u/1/folders/1YiAQBEQsALODrLv8HRgcpsZFBeKQLuES?hl=es
 
 ## 📂 Estructura del Proyecto
 * `app_pages/`: Gestión de posteos, comentarios y sección "About".
